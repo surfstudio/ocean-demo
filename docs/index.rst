@@ -39,6 +39,14 @@ Logger
    :show-inheritance:
    :noindex:
 
+My cool module
+**************
+.. automodule:: crimes.my_cool_module
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :noindex:
+
 Parallel
 ********
 .. automodule:: crimes.parallel
